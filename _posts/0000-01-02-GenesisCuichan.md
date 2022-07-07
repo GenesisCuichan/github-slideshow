@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "My second Slide with my friends!"
 ---
-Your text
-Use the left arrow to go back!
+My text edited
+Hello my friend!
